@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - printing without printf and puts
- * 
+ * main -printing without printf and puts 
  * Return: Always 1 (Success)
- *
  */
 int main(void)
 {
